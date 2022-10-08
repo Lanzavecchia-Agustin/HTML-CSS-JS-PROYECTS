@@ -78,9 +78,8 @@ body {
  border: 1px solid var(--Desaturated-Red);
  border-radius: 50px;
  background-color: var(--Gradient-2);
-
  background-repeat: no-repeat;
- background-position: 205px;
+ background-position: 190px;
  padding-left: 16px;
  color: var(--Desaturated-Red);
 }
@@ -91,6 +90,8 @@ body {
  font-weight: 400;
  padding-left: 16px;
 }
+
+
 
 .form_container_email_button {
  position: absolute;
@@ -277,7 +278,7 @@ body {
 
  .main_container-logo {
   width: 160px;
-  margin: 60px 44px;
+  margin: 60px 164px;
  }
 
  .main_container_picture {
@@ -288,7 +289,7 @@ body {
 
  .main_container_content {
   width: 440px;
-  margin: 75px 0 0 44px;
+  margin: 75px 0 0 164px;
  }
 
  .main_container_title {
